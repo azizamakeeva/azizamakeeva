@@ -2,7 +2,7 @@
 
 [Header](https://github.com/azizamakeeva/azizamakeeva/blob/main/assets/AA.png)
 
-##Languages and tools 
+## Languages and tools
 ![Python](https://img.shields.io/badge/-Python-f1f5c3?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-d2d6a6?style=for-the-badge&logo=django&&logoColor=green)
 ![html](https://img.shields.io/badge/-html-f1f5c3?style=for-the-badge&logo=HTML)
@@ -19,7 +19,7 @@
 ![c#](https://img.shields.io/badge/-.net-f1f5c3?style=for-the-badge)
 ![linux](https://img.shields.io/badge/-linux-f1f5c3?style=for-the-badge&logo=linux&logoColor=black)
 
-###Follow me in LinkedIn
+### Follow me in LinkedIn
 ![linkdn](https://img.shields.io/badge/-linkedin-f1f5c3?style=for-the-badge&logo=linkedin&logoColor=blue)
 
 
