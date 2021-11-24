@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 Makeeva Aziza
 
 <!--[Header](https://github.com/azizamakeeva/azizamakeeva/blob/main/assets/AA.png)
 -->
@@ -17,7 +17,7 @@
 ![linux](https://img.shields.io/badge/-linux-f1f5c3?style=for-the-badge&logo=linux&logoColor=black)
 ![c++](https://img.shields.io/badge/-c++-f1f5c3?style=for-the-badge&logo=C%2b%2b&logoColor=blue)
 ![c#](https://img.shields.io/badge/-.net-f1f5c3?style=for-the-badge)
-![linux](https://img.shields.io/badge/-linux-f1f5c3?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### Follow me in LinkedIn
 [![linkdn](https://img.shields.io/badge/-linkedin-f1f5c3?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aziza-makeeva-6b80a41b2/)
