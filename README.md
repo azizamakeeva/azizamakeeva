@@ -8,7 +8,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- header 
+
+[Header](https://github.com/azizamakeeva/azizamakeeva/blob/main/assets/a.png)
   
 About me 
 
